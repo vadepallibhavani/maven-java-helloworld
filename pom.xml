@@ -26,6 +26,9 @@
     </plugins>
   </build>
   <properties>
+    <sonar.host.url>http://3.110.86.152:9000/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>bhanu</sonar.password>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 </project>
